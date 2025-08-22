@@ -57,7 +57,6 @@
 
 credentials <- data.frame(
   user = c("charlenetournier","nicolasvirely","olfadoghri","marinesivignon","romainsupiot","rahmasellami","yosraboukhris","Putnam"), # mandatory
-  password = c("cc11","nico02","olfa002","marine100","rom200","rahma03","yosra111",""), # mandatory
   # start = c("2019-04-15"), # optimal (all others)
   expire = rep(NA,8),
   admin = c(TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE),
